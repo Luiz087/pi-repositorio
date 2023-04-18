@@ -125,7 +125,7 @@ header{
 .wrapper .form-box.register{
     position: absolute;
     transition: none;
-    transform: translateX(400);
+    transform: translateX(400px);
 }
 
 .wrapper.active .form-box.register{
