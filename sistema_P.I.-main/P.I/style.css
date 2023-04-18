@@ -10,7 +10,7 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url('background.png') no-repeat;
+    background: url('Images/bg2.jpg') no-repeat;
     background-size: cover;
     background-position: center;
 }
@@ -20,7 +20,7 @@ header{
     top: 0;
     left: 0;
     width: 100%;
-    padding: 20 px 100px;
+    padding: 20px 100px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -35,7 +35,7 @@ header{
 
 .navigation a{
     position: relative;
-    font-size: 1.1em;
+    font-size: 20px;
     color: white;
     text-decoration: none;
     font-weight: 500;
