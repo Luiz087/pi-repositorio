@@ -257,6 +257,8 @@ header{
     text-decoration: underline;
 }
 
+/*INICIO DO CSS*/
+
 footer{
     width: 100%;
     min-height: 250px;
@@ -268,7 +270,7 @@ footer{
 }
 footer .boxs{
     width: 320px;
-    min-height: 150PX;
+    min-height: 150px;
     padding: 20px;
 }
 footer .boxs:nth-child(4){
